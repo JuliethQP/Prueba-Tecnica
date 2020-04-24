@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body, html .content-home{
+  height: 100vh;
+  margin: 0;
+}
+.Login-Componente{
+  height: 100%;
+}

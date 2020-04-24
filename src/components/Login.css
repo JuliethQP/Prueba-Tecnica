@@ -1,0 +1,32 @@
+.Login-component {
+  background-color: gray;
+  background-image: url("./Imagenes/icons8-github-512.png");
+  height: 100%;
+  background-size: cover;
+}
+.caja-form {
+  background: rgb(238, 174, 202);
+  background: linear-gradient(
+    222deg,
+    rgba(238, 174, 202, 0.8) 0%,
+    rgba(194, 178, 212, 0.13489145658263302) 17%,
+    rgba(148, 187, 233, 0.8) 100%
+  );
+}
+.content-home {
+
+ 
+  background: linear-gradient(
+    222deg,
+    rgba(238, 174, 202, 0.8) 0%,
+    rgba(194, 178, 212, 0.13489145658263302) 17%,
+    rgba(148, 187, 233, 0.1) 100%
+  );
+ 
+}
+@media (max-width: 375px) {
+  .text-footer {
+    font-size: 15px;
+  }
+}
+
