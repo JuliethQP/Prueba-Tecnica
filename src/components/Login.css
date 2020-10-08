@@ -1,8 +1,8 @@
-.Login-component {
+.login-component {
   background-color: gray;
   background-image: url("./Imagenes/icons8-github-512.png");
-  height: 100%;
   background-size: cover;
+  height: 100vh;
 }
 .caja-form {
   background: rgb(238, 174, 202);

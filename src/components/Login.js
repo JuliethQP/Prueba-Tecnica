@@ -44,7 +44,7 @@ class Login extends React.Component {
     }
     render() {
         return (
-            <div className="Login-component" style={{ height: '100vh' }}>
+            <div className="login-component">
                 {Cookies.get('nombre') ?
                     <Redirect to="/home"/>
                     :<Redirect to="/"/>
